@@ -1,1 +1,1 @@
-alert("retest tháng 7")
+alert(1)
