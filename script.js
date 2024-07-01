@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+alert("retest tháng 7")
